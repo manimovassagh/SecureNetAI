@@ -153,8 +153,7 @@ We deliver automation that is **innovative, reliable, and compliant** — techno
 ## 📫 Contact
 
 **SECURNET AI GmbH**  
- 
-🌐 Website: 
+📧 hello@securnet.ai  
 
 ---
 
