@@ -1,4 +1,4 @@
-# # SECURNET AI GmbH
+# SECURNET AI GmbH
 
 **Secure AI. Tested Automation. Real Results.**
 
@@ -153,8 +153,8 @@ We deliver automation that is **innovative, reliable, and compliant** — techno
 ## 📫 Contact
 
 **SECURNET AI GmbH**  
-
-🌐 Website:  
+ 
+🌐 Website: 
 
 ---
 
